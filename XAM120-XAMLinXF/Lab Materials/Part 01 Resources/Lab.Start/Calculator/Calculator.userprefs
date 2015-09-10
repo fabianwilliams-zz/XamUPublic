@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Calculator/Calculator.iOS/Calculator.iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6.8.4" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Calculator/Calculator/MainPage.xaml">
+    <Files>
+      <File FileName="Calculator/Calculator/MainPage.xaml" Line="18" Column="23" />
+      <File FileName="Calculator/Calculator/MainPage.xaml.cs" Line="85" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
